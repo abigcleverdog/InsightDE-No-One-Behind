@@ -40,7 +40,7 @@
 
 ## 🔨 Technical Architecture
 
-![architecture](/pic/arch.jpg)
+![architecture](/pics/arch.jpg)
 
 ## ▶️ How To Use
 
@@ -71,11 +71,16 @@ or config apache service to server the app
 
 ## 🐾 Demo
 
-![screenshot](/data/3_1.gif)
+![screenshot](/pics/3_1.gif)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="/pics/insight-demo4.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## 🚀 Scaling Performance
 
-![latency](/pic/latency.jpg)
+![latency](/pics/metrics.jpg)
 
 ## ❤️ Credits
 
@@ -91,4 +96,4 @@ This software uses following open source packages.
 
 > [Linkedin](http://www.linkedin.com/in/xiaofZ) · 
 > [GitHub](github.com/abigcleverdog)  · 
-> [Kaggle](https://www.kaggle.com/abigcleverdog)  · 
+> [Kaggle](https://www.kaggle.com/abigcleverdog)
