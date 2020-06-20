@@ -71,12 +71,7 @@ or config apache service to server the app
 
 ## 🐾 Demo
 
-![screenshot](/pics/3_1.gif)
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="/pics/insight-demo4.mp4" type="video/mp4">
-  </video>
-</figure>
+![screenshot](/pics/demo.gif)
 
 ## 🚀 Scaling Performance
 
